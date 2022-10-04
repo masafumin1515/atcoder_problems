@@ -24,5 +24,6 @@
     "random": "cpp",
     "algorithm": "cpp",
     "ios": "cpp"
-  }
+  },
+  "cSpell.words": ["chmax"]
 }
