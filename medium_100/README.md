@@ -8,3 +8,4 @@
 | <ul><li> [x] </ul> | <ul><li> [x] </ul> | 4        | B. ss            | 17m  | -                                                                                                                                                  |
 | <ul><li> [x] </ul> | <ul><li> [ ] </ul> | 7        | B. Cut and Count | 42m  | ビット使うと楽。（データの共通しているか(bool)&&数えられる種類）。時間がかかった。<br> `\| =` は論理和。`__builtin_popcount`で立ってるビットの数。 |
 | <ul><li> [x] </ul> | <ul><li> [x] </ul> | 10       | C - Together     | 23m  | 配列を使う。（データが共通する個数(int)&&数えられる種類）ビットだと個数の情報を持てない。（bool しか持てない）                                     |
+| <ul><li> [x] </ul> | <ul><li> [x] </ul> | 13       | C. Traveling     | 20m  | -                                                                                                                                                  |
