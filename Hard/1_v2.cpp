@@ -1,35 +1,24 @@
 #include<bits/stdc++.h>
 #define rep(i,a,b) for(int i=a;i<b;i++)
-#define rrep(i,a,b) for(int i=a;i>=b;i--)
-#define fore(i,a) for(auto &i:a) // for(auto &x : vec)
-#define all(x) (x).begin(),(x).end()
-#define all_arr(x) begin(x), end(x)
 using namespace std;
-void _main(); int main() { cin.tie(0); ios::sync_with_stdio(false); _main(); }
-typedef long long ll; const int INF = INT_MAX / 2; const ll INFL = 1LL << 60;
-template<class T>bool chmax(T& a, const T& b) { if (a < b) { a = b; return 1; } return 0; }
-template<class T>bool chmin(T& a, const T& b) { if (b < a) { a = b; return 1; } return 0; }
 
-string S;
-int N;
-int dp[33][101010];
-int ans[101010];
-//---------------------------------------------------------------------------------------------------
-void _main() {
+int main() {
+  string S; 
   cin >> S;
+  int N; 
   N = S.length();
 
+  vector<vector<int> > dp(33,vector<int>(N)); // dp[p][i] := i番目のマスから2^p回移動した先のマス。最初にi番目いた人の移動記録。
   rep(i, 0, N) {
-    if (S[i] == 'R') dp[0][i] = i + 1;
+    if (S[i] == 'R') dp[0][i] = i + 1; // i番目のマスからi回移動した時のマスはi+1
     else dp[0][i] = i - 1;
   }
+  rep(p, 0, 32) rep(i, 0, N) dp[p + 1][i] = dp[p][dp[p][i]]; // ダブリング
 
-  rep(p, 0, 32) rep(i, 0, N) dp[p + 1][i] = dp[p][dp[p][i]];
-
+  vector<int> ans(N);
   rep(i, 0, N) ans[dp[32][i]]++;
   rep(i, 0, N) {
-    if (i) printf(" ");
-    printf("%d", ans[i]);
+    cout << ans[i] << ' ';
   }
-  printf("\n");
+  cout << endl;
 }
