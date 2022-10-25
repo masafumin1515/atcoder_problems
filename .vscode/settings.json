@@ -91,5 +91,6 @@
     "functional": "cpp",
     "utility": "cpp"
   },
-  "cSpell.words": ["chmax", "rrep"]
+  "cSpell.words": ["chmax", "rrep", "snuke"],
+  "C_Cpp.errorSquiggles": "enabled"
 }
