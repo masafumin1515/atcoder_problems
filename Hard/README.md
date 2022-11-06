@@ -10,3 +10,4 @@
 | 2022/11/6          | <ul><li> [ ] </ul> | 37       | [C - Strawberry Cakes](https://atcoder.jp/contests/ddcc2020-qual/tasks/ddcc2020_qual_c) |
 | 2022/11/6          | -                  | 39       | [C. Stones](https://atcoder.jp/contests/tenka1-2019/tasks/tenka1_2019_c)                |
 | 2022/11/6          | <ul><li> [ ] </ul> | 41       | [C. Triangular Relationship](https://atcoder.jp/contests/abc108/tasks/arc102_a)         |
+| 2022/11/6          | <ul><li> [ ] </ul> | 43       | [D. Wall](https://atcoder.jp/contests/abc079/tasks/abc079_d)                            |
