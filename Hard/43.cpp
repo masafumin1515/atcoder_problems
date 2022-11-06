@@ -13,12 +13,12 @@ template<class T>bool chmin(T& a, const T& b) { if (b < a) { a = b; return 1; } 
 int H, W, C[10][10], A[202][202];
 //---------------------------------------------------------------------------------------------------
 void _main() {
-    cin >> H >> W;
-    rep(i, 0, 10) rep(j, 0, 10) cin >> C[i][j];
-    rep(y, 0, H) rep(x, 0, W) cin >> A[y][x];
- 
-    rep(k, 0, 10) rep(i, 0, 10) rep(j, 0, 10) C[i][j] = min(C[i][j], C[i][k] + C[k][j]);
-    int ans = 0;
-    rep(y, 0, H) rep(x, 0, W) if (0 <= A[y][x]) ans += C[A[y][x]][1];
-    cout << ans << endl;
+  cin >> H >> W;
+  rep(i, 0, 10) rep(j, 0, 10) cin >> C[i][j];
+  rep(y, 0, H) rep(x, 0, W) cin >> A[y][x];
+
+  rep(k, 0, 10) rep(i, 0, 10) rep(j, 0, 10) C[i][j] = min(C[i][j], C[i][k] + C[k][j]);
+  int ans = 0;
+  rep(y, 0, H) rep(x, 0, W) if (0 <= A[y][x]) ans += C[A[y][x]][1];
+  cout << ans << endl;
 } 
