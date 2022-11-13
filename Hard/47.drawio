@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="EkSeq30eJGmm7Zy0Qsnr" name="ページ2">
+        <mxGraphModel dx="552" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="XDj0NGa3dcZJmF4gn8FU-0"/>
+                <mxCell id="XDj0NGa3dcZJmF4gn8FU-1" parent="XDj0NGa3dcZJmF4gn8FU-0"/>
+                <mxCell id="XDj0NGa3dcZJmF4gn8FU-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="XDj0NGa3dcZJmF4gn8FU-1">
+                    <mxGeometry x="212.5" y="680" width="15" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XDj0NGa3dcZJmF4gn8FU-3" value="12&lt;font color=&quot;#cc0066&quot;&gt;&lt;u&gt;1&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;fontSize=21;" vertex="1" parent="XDj0NGa3dcZJmF4gn8FU-1">
+                    <mxGeometry x="160" y="655" width="90" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="XDj0NGa3dcZJmF4gn8FU-4" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;" edge="1" parent="XDj0NGa3dcZJmF4gn8FU-1" source="XDj0NGa3dcZJmF4gn8FU-3" target="XDj0NGa3dcZJmF4gn8FU-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XDj0NGa3dcZJmF4gn8FU-5" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;" edge="1" parent="XDj0NGa3dcZJmF4gn8FU-1" source="XDj0NGa3dcZJmF4gn8FU-3" target="XDj0NGa3dcZJmF4gn8FU-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XDj0NGa3dcZJmF4gn8FU-6" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;" edge="1" parent="XDj0NGa3dcZJmF4gn8FU-1" source="XDj0NGa3dcZJmF4gn8FU-3" target="XDj0NGa3dcZJmF4gn8FU-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XDj0NGa3dcZJmF4gn8FU-7" value="0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;" vertex="1" parent="XDj0NGa3dcZJmF4gn8FU-1">
+                    <mxGeometry x="330" y="760" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XDj0NGa3dcZJmF4gn8FU-8" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;" vertex="1" parent="XDj0NGa3dcZJmF4gn8FU-1">
+                    <mxGeometry x="330" y="680" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XDj0NGa3dcZJmF4gn8FU-9" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;" vertex="1" parent="XDj0NGa3dcZJmF4gn8FU-1">
+                    <mxGeometry x="330" y="600" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="XDj0NGa3dcZJmF4gn8FU-10" value="2桁目までの数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;fontSize=17;" vertex="1" parent="XDj0NGa3dcZJmF4gn8FU-1">
+                    <mxGeometry x="142.5" y="560" width="125" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="XDj0NGa3dcZJmF4gn8FU-11" value="1桁目" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;fontSize=17;" vertex="1" parent="XDj0NGa3dcZJmF4gn8FU-1">
+                    <mxGeometry x="320" y="560" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
