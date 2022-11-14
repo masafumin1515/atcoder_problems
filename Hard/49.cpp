@@ -13,6 +13,7 @@ template<int MOD> struct ModInt {
     ModInt(signed sig) { x = sig < 0 ? sig % MOD + MOD : sig % MOD; }
     ModInt(signed long long sig) { x = sig < 0 ? sig % MOD + MOD : sig % MOD; }
     int get() const { return (int)x; }
+    
     ModInt &operator+=(ModInt that) { if ((x += that.x) >= MOD) x -= MOD; return *this; }
     ModInt &operator-=(ModInt that) { if ((x += MOD - that.x) >= MOD) x -= MOD; return *this; }
     ModInt &operator*=(ModInt that) { x = (unsigned long long)x * that.x % MOD; return *this; }
@@ -30,7 +31,16 @@ template<int MOD> struct ModInt {
 };
 template<int MOD> ostream& operator<<(ostream& st, const ModInt<MOD> a) { st << a.get(); return st; };
 template<int MOD> ModInt<MOD> operator^(ModInt<MOD> a, unsigned long long k) {
-    ModInt<MOD> r = 1; while (k) { if (k & 1) r *= a; a *= a; k >>= 1; } return r; }
+    ModInt<MOD> r = 1; 
+    while (k) { 
+        if (k & 1) {
+            r *= a; 
+            a *= a; 
+            k >>= 1; 
+        } 
+    return r;
+    }
+}
 typedef ModInt<1000000007> mint;
 
 int N, A, B;
