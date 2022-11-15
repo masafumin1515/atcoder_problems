@@ -4,8 +4,10 @@ using namespace std;
 int N;
 vector<long long> x, y;
 // ------------------------------------------------
-int solve() {
-    if (N == 1) return 1;
+int main() {
+    cin >> N;
+    x.resize(N); y.resize(N);
+    for (int i = 0; i < N; ++i) cin >> x[i] >> y[i];
 
     int res = N;
     for (int i = 0; i < N; ++i) {
@@ -23,12 +25,6 @@ int solve() {
             res = min(res, N - sub);
         }
     }
-    return res;
-}
-// ------------------------------------------------
-int main() {
-    cin >> N;
-    x.resize(N); y.resize(N);
-    for (int i = 0; i < N; ++i) cin >> x[i] >> y[i];
-    cout << solve() << endl;
+
+    cout << res << endl;
 }

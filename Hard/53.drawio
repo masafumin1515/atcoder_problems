@@ -1,0 +1,121 @@
+<mxfile host="65bd71144e">
+    <diagram id="_gma9b8nYkK9QVrinfAP" name="ページ1">
+        <mxGraphModel dx="2507" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="161" value="(1,1)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=16;strokeWidth=19;backgroundOutline=0;perimeterSpacing=6;shadow=1;noLabel=0;portConstraintRotation=0;allowArrows=1;" vertex="1" parent="1">
+                    <mxGeometry x="-120" y="200" width="60" height="60" as="geometry">
+                        <mxRectangle width="60" height="60" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="162" value="(2,2)&lt;span style=&quot;white-space: pre; font-size: 16px;&quot;&gt;&#9;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=16;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="-60" y="260" width="61" height="60" as="geometry">
+                        <mxRectangle width="61" height="60" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="163" value="(2,5)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=16;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="260" width="60" height="60" as="geometry">
+                        <mxRectangle width="60" height="60" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="164" value="(3,3)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=16;sketch=0;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="1" y="320" width="58" height="60" as="geometry">
+                        <mxRectangle width="58" height="60" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="165" value="(4,2)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=16;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="-60" y="380" width="61" height="60" as="geometry">
+                        <mxRectangle width="61" height="60" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="166" value="最小コストは5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="55" y="410" width="190" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="167" value="(1,1)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=16;strokeWidth=19;backgroundOutline=0;perimeterSpacing=6;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="-120" y="610" width="60" height="60" as="geometry">
+                        <mxRectangle width="60" height="60" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="168" value="(2,2)&lt;span style=&quot;white-space: pre; font-size: 16px;&quot;&gt;&#9;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=16;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="-60" y="670" width="61" height="60" as="geometry">
+                        <mxRectangle width="61" height="60" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="169" value="(2,5)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=16;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="670" width="60" height="60" as="geometry">
+                        <mxRectangle width="60" height="60" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="170" value="(3,3)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=16;sketch=0;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="1" y="730" width="58" height="60" as="geometry">
+                        <mxRectangle width="58" height="60" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="171" value="(4,2)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=16;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="-60" y="790" width="61" height="60" as="geometry">
+                        <mxRectangle width="61" height="60" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="172" value="最小コストは4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="55" y="820" width="190" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="173" value="" style="endArrow=none;html=1;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;fontSize=20;exitX=0.167;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.267;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-69.99999999999966" y="660" as="sourcePoint"/>
+                        <mxPoint x="-39.99999999999966" y="690" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="174" value="(1,1)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=16;strokeWidth=19;backgroundOutline=0;perimeterSpacing=6;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="-120" y="1010" width="60" height="60" as="geometry">
+                        <mxRectangle width="60" height="60" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="175" value="(2,2)&lt;span style=&quot;white-space: pre; font-size: 16px;&quot;&gt;&#9;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=16;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="-60" y="1070" width="61" height="60" as="geometry">
+                        <mxRectangle width="61" height="60" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="176" value="(2,5)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=16;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="1070" width="60" height="60" as="geometry">
+                        <mxRectangle width="60" height="60" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="177" value="(3,3)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=16;sketch=0;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="1" y="1130" width="58" height="60" as="geometry">
+                        <mxRectangle width="58" height="60" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="178" value="(4,2)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=16;shadow=1;" vertex="1" parent="1">
+                    <mxGeometry x="-60" y="1190" width="61" height="60" as="geometry">
+                        <mxRectangle width="61" height="60" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="179" value="最小コストは3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="55" y="1220" width="190" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="180" value="" style="endArrow=none;html=1;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;fontSize=20;exitX=0.167;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.267;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-69.99999999999955" y="1060" as="sourcePoint"/>
+                        <mxPoint x="-39.999999999999545" y="1090" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="181" value="" style="endArrow=none;html=1;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;fontSize=20;exitX=0.167;exitY=0.833;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=5;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-10" y="1120.0000000000002" as="sourcePoint"/>
+                        <mxPoint x="20" y="1150" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="182" value="p=1, q=1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;" vertex="1" parent="1">
+                    <mxGeometry x="-55" y="160" width="170" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="183" value="p=1, q=1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;" vertex="1" parent="1">
+                    <mxGeometry x="-55" y="580" width="170" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="184" value="p=1, q=1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=メイリオ;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25AA%25E3%2582%25AA;" vertex="1" parent="1">
+                    <mxGeometry x="-55" y="970" width="170" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
