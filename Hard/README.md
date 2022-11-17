@@ -15,3 +15,7 @@
 | 2022/11/13         | <ul><li> [ ] </ul> | 47       | [D. Lunlun Number](https://atcoder.jp/contests/abc161/tasks/abc161_d)                   |
 | 2022/11/13         | <ul><li> [ ] </ul> | 49       | [D. Bouquet](https://atcoder.jp/contests/abc156/tasks/abc156_d)                         |
 | 2022/11/13         | <ul><li> [ ] </ul> | 51       | [D. Knight](https://atcoder.jp/contests/abc145/tasks/abc145_d)                          |
+| 2022/11/15         | <ul><li> [ ] </ul> | 53       | [B. Picking Up](https://atcoder.jp/contests/diverta2019-2/tasks/diverta2019_2_b)        |
+| 2022/11/15         | -                  | 55       | [D. Walk and Teleport](https://atcoder.jp/contests/abc052/tasks/arc067_b)               |
+| 2022/11/15         | <ul><li> [ ] </ul> | 57       | [A. Zero-Sum Ranges](https://atcoder.jp/contests/agc023/tasks/agc023_a)                 |
+| 2022/11/15         | <ul><li> [ ] </ul> | 59       | [C. 755](https://atcoder.jp/contests/abc114/tasks/abc114_d)                             |
