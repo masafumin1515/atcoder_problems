@@ -19,3 +19,4 @@
 | 2022/11/15         | -                  | 55       | [D. Walk and Teleport](https://atcoder.jp/contests/abc052/tasks/arc067_b)               |
 | 2022/11/15         | <ul><li> [ ] </ul> | 57       | [A. Zero-Sum Ranges](https://atcoder.jp/contests/agc023/tasks/agc023_a)                 |
 | 2022/11/15         | <ul><li> [ ] </ul> | 59       | [C. 755](https://atcoder.jp/contests/abc114/tasks/abc114_d)                             |
+| 2022/11/15         | <ul><li> [ ] </ul> | 61       | [C. Next Letter](https://atcoder.jp/contests/code-festival-2016-quala/tasks/codefestival_2016_qualA_c)                             |
