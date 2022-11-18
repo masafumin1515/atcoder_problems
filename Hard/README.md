@@ -22,3 +22,4 @@
 | 2022/11/17         | <ul><li> [ ] </ul> | 61       | [C. Next Letter](https://atcoder.jp/contests/code-festival-2016-quala/tasks/codefestival_2016_qualA_c)                             |
 | 2022/11/18         | - | 63       | [C. Iroha's Obsession](https://gemuou.hatenablog.com/entry/2022/11/18/093332)                             |
 | 2022/11/18         | - | 65       | D. Card Eater                             |
+| 2022/11/18         | <ul><li> [ ] </ul> | 67       | [D. Christmas]()                             |
