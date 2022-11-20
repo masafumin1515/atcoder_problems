@@ -117,7 +117,7 @@ https://atcoder.jp/contests/agc038/tasks/agc038_a
 
 
 ## 79 	D. Handstand
-
+https://drken1215.hatenablog.com/entry/2019/04/14/222900
 **考察**
 「操作を最大K回まで行うことができる」->貪欲法を考える。貪欲法の場合は「1回の操作で規則的に何が変わるか」が大事なのでデータの特徴を考える。
 
