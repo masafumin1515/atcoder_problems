@@ -4,6 +4,7 @@
 using namespace std;
 typedef long long ll; const int INF = INT_MAX / 2; const ll INFL = 1LL << 60;
 
+// -----------------------------------
 int main() {
-  
+    // for (int i=0; i<N; ++i)
 }
