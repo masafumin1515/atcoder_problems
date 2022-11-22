@@ -177,3 +177,8 @@ https://atcoder.jp/contests/abc112/tasks/abc112_c
 **反省**
 数学的に考えようと思うがすごい複雑。こうなると全探索しかないのでは？と考える。
 制約を確認して全探索できる問題か気にするようにしておく。
+
+## 85.	D - Friend Suggestions
+
+Union-Find復習！
+
